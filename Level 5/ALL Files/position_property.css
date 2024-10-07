@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.box {
+    background-color: color-mix(in srgb, red 61%, yellow 50%);
+    margin: 5px;
+    width: 120px;
+    height: 120px;
+}
+#box1{
+    position: static;
+    background-color: rgb(8, 129, 234);
+}
+#box2{
+    position: relative;
+    background-color: coral;
+    left: 100px;
+    top: 29px;
+}
+#box3{
+    position: absolute;
+    background-color: crimson;
+    top: 39px;
+    left: 25px;
+}
+#box4{
+    position: fixed;
+    background-color: darkturquoise;
+}

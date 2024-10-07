@@ -1,0 +1,16 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(98, 98, 220);
+    margin: 15px;
+    border: 10px solid black;
+    border-radius: 20px;
+    text-align: center;
+    font-size: xx-large;
+    /* display: block; */
+    display: inline-block;
+}
+#box1 {
+    visibility: hidden;
+    display: none;
+}

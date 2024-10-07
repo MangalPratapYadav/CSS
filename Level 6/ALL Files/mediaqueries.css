@@ -1,0 +1,12 @@
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    background-color: burlywood;
+}
+@media screen and (min-width:200px) and (max-width :  300px) {
+    .box {
+        background-color: deeppink;
+        border-radius: 50%;
+    }
+}

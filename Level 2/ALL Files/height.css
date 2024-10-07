@@ -1,0 +1,20 @@
+.box {
+    height: 240px;
+    width: 250px;
+}
+#BOX1 {
+    background-color: red;
+    visibility: hidden;
+}
+#box2 {
+    background-color: green;
+    visibility: visible;
+}
+#icon {
+    height: 150px;
+    width: 150px;
+    background-image: url(/Images/464-4645124_kiet-group-of-institutions-logo-hd-png-download.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}

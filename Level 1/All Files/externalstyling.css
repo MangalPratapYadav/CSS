@@ -1,0 +1,12 @@
+/* h1 {
+    color: red;
+}
+p {
+    color: rgb(42, 8, 233);
+} */
+#first_heading {
+    color: color-mix(in xyz, red 50%, blue 30%);
+}
+.text {
+    color: deeppink;
+}
